@@ -18,6 +18,7 @@ The main objective of this project is to practice and dust off fundamental Pytho
 Make sure you have Python 3.x installed on your machine. You can check your version by running:
 ```bash
 python3 --version
+```
 
 
 ## 💻 How to Run
@@ -25,3 +26,4 @@ Execute the script directly from your terminal:
 
 ```bash
 python3 palindrome.py
+```
