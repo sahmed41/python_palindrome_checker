@@ -1,6 +1,7 @@
 import string_operation
 import validation
 
+
 userInput = input("Please enter a word: ")
 if userInput == "":
     print("Empty")
